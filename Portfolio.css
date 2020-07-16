@@ -16,7 +16,7 @@ body {
     background-color:#eeeeee;
 }
 .mountain {
-    width: 390px;
+    width: 400px;
     padding-top: 100px;
 }
 
@@ -107,9 +107,6 @@ h4 {
 #projects{
     font-family: 'Parisienne', cursive;
     color: #f0a500;
-    font-size: 4rem;
-    position:relative;
-    top:75px;
 }
 
 .projectContainer{
@@ -131,8 +128,8 @@ h4 {
 }
 
 .volcano{
-    width:405px;
-    height:405px;
+    width:425px;
+    height:425px;
 }
 
 .card{

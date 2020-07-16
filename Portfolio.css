@@ -1,0 +1,309 @@
+body {
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* About Section*/
+
+.introContainer{
+    background-color:#eeeeee;
+    height: 300px;
+}
+.mountainContainer{
+    background-color:#eeeeee;
+}
+.mountainContainer2{
+    background-color:#eeeeee;
+}
+.mountain {
+    width: 400px;
+    padding-top: 100px;
+}
+
+.cloud1 {
+    position: relative;
+    top: 50px;
+}
+
+.cloud2{
+    position: relative;
+    top: 125px;
+}
+
+.intro{
+    position:relative;
+    top: 75px;
+}
+
+.pencilBorder {
+    background-color: #eeeeee;
+    border-radius: 50%;
+    height: 150px;
+    width:150px;
+    border-width: 5px;
+    border: 5px solid #3b6978;
+}
+
+.fadeIn{
+    display: none;
+}
+
+#pencil{
+    position:relative;
+    width: 125px;
+    height:125px;
+    top:10px;
+    left:6px;
+}
+
+.compyBorder{
+    background-color: #eeeeee;
+    border-radius: 50%;
+    height: 150px;
+    width:150px;
+    border-width: 5px;
+    border: 5px solid #3b6978;
+}
+
+#compy{
+    position:relative;
+    width: 125px;
+    height:125px;
+}
+
+h1{
+    font-family: 'Parisienne', cursive;
+    color: #393e46;
+    font-size: 4rem;
+}
+
+h2{
+    font-size: 2.4rem;
+    color: #3b6978;
+}
+
+h3{
+    color:#393e46;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    color: #393e46;
+    font-weight: 300;
+}
+
+#design{
+    color:#393e46;
+}
+
+#develop{
+    color:#393e46;
+}
+
+/*Projects*/
+
+
+#projects{
+    font-family: 'Parisienne', cursive;
+    color: #f0a500;
+    font-size: 4rem;
+    position:relative;
+    top:75px;
+}
+
+.projectContainer{
+    background-color:#eeeeee;
+}
+
+.volcanoContainer{
+    background-color: #eeeeee;
+    height:533px;
+}
+
+.volcanoContainer2{
+    background-color: #eeeeee;
+}
+
+#volcano{
+    height: 485px;
+    width: 485px;
+}
+
+.volcano{
+    width:425px;
+    height:425px;
+}
+
+.card{
+    box-shadow: 20px 10px #393e46;
+    border: 2px solid #393e46;
+}
+
+.card-title{
+    font-size: 18px;
+}
+
+.card-subtitle{
+    background-color: #3b6978;
+    color: #eeeeee;
+}
+
+.hideFont {
+    color: #3b6978;
+}
+
+.card-text{
+    color: #3b6978;
+    font-size: 12px;
+}
+
+.card-link{
+    border: 2px solid #3b6978;
+    padding: 5px;
+    border-radius: 5px;
+    color:#393e46;
+}
+
+.card-link:hover{
+    color:#eeeeee;
+    background-color:#393e46;
+    border: 2px solid #393e46;
+
+}
+
+/*Contact*/
+.contactContainer{
+    background-color: #eeeeee;
+}
+
+.aboutMeContainer{
+    background-color: #393e46;
+}
+
+.avatar{
+    background-color: #eeeeee;
+    border-radius: 50%;
+    height: 150px;
+    width:150px;
+    border-width: 5px;
+    border: 5px solid #3b6978;
+
+}
+
+.cartoonMe{
+    height: 200px;
+    width: 300px;
+    position: relative;
+    right:80px;
+    top: -55px;
+}
+
+#contact{
+    color: #3b6978;
+}
+
+.contactMe{
+    display:none;
+}
+
+.btn-primary,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #3b6978;
+    border: #3b6978;
+    color: #eeeeee;
+}
+
+.btn-primary:hover{
+    background-color: #eeeeee;
+    border: #eeeeee;
+    color: #393e46;
+}
+
+.quickDesc{
+    font-weight: 300;
+    color: #eeeeee;
+    font-size: 0.7rem;
+}
+
+.fa-linkedin-square,
+.fa-check-square{
+ font-size: 50px;
+ color: #eeeeee;
+}
+
+.fa-linkedin-square:hover,
+.fa-check-square:hover{
+    color:#3b6978;
+}
+
+/*Nav Bar*/
+
+.navbar{
+    height: 88px;
+    background-color:white;
+}
+
+.navbar-brand{
+    border: 5px solid #393e46;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    background-color: #eeeeee;
+    font-size: 3rem;
+    margin-left: 25px;
+}
+
+.navbar-brand:hover{
+    background-color: #393e46;
+    border: 5px solid white;
+}
+
+.brand{
+    color: #393e46;
+    font-family: 'Parisienne', cursive; 
+    font-size: 3rem;
+    padding-left: 7px;
+    padding-top: 1.5px;
+}
+
+.brand:hover{
+    color:#eeeeee;
+}
+
+.nav-item{
+    padding: 25px;
+}
+
+.nav-link{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    color: #393e46;
+}
+
+.nav-link:hover {
+    color: white;
+    background-color: #3b6978;
+    border-radius: 5px;
+}
+
+.navbar-toggler{
+    border:none;
+}
+
+.navbar-toggler-icon {
+    background-color:#393e46;
+    color: #eeeeee;
+    border-radius: 5px;
+    border:none;
+    width:55px;
+    height:55px;
+}
+
+.fa-bars {
+    font-size: 40px;
+    margin-top: 7px;
+}
+

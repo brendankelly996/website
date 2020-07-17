@@ -277,12 +277,11 @@ h4 {
 .nav-link{
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
-    color: #393e46;
+    color: #eeeeee;
 }
 
 .nav-link:hover {
     color: white;
-    background-color: #3b6978;
     border-radius: 5px;
 }
 
@@ -297,6 +296,11 @@ h4 {
     border:none;
     width:55px;
     height:55px;
+}
+
+.navbar-nav{
+    background-color:#393e46;
+    border-radius: 5px;
 }
 
 .fa-bars {

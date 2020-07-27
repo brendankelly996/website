@@ -19,12 +19,33 @@ html{
 }
 
 .navbar-toggler-icon {
-    background-color:white;
+    background-color: white;
     border-radius: 5px;
     border:none;
     width:55px;
     height:55px;
 }
+
+.navbar-nav{
+    border-radius: 5px;
+}
+
+.fa-bars {
+    font-size: 40px;
+    margin-top: 7px;
+    color:#ea9a96;
+}
+
+.nav-link{
+    font-family: 'Quicksand', sans-serif;
+    color: #303960;
+}
+
+.nav-link:hover {
+    color: #ea9a96;
+    border-radius: 5px;
+}
+
 
 /*Info*/
 

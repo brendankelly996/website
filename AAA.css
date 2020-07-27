@@ -52,19 +52,6 @@ html{
 body{
     background-color:white;
 }
-
-.carouselContainer{
-    width:100%;
-}
-
-.fullScreen {
-    width: 100%;
-  }
-
-  .carousel-inner{
-    width:100%;
-  }
-
   .carouselBG{
     background-color: white;
     color:#ebecf1;
@@ -90,7 +77,6 @@ body{
     background-color:white;
     color: #303960;
     font-family: 'Quicksand', sans-serif;
-    padding-left:15px;
 
 }
 .sectionTitle{
@@ -169,5 +155,4 @@ h6{
     background-color: #303960;
     color: #ebecf1;
     font-size: 8px;
-    padding-top: 10px;
 }

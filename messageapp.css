@@ -1,0 +1,11 @@
+.row {
+    margin-top: 25vh;
+}
+
+#link-input {
+    margin-left: 25px;
+}
+
+#create:hover {
+    color: orange;
+}
